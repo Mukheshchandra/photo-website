@@ -1,0 +1,16 @@
+header{
+  height: 50vh;
+  background: url(https://wallsdesk.com/wp-content/uploads/2016/09/Ameesha-Patel-Pictures.jpg) no-repeat center /cover;
+}
+
+.welcomestyling{
+  background-color: grey;
+}
+
+.collectionstyle{
+  background-color: rgba(0, 0, 128, 0.5);
+}
+
+.pricingstyle{
+  background-color: rgba(162, 162, 18, 0.664);
+}
