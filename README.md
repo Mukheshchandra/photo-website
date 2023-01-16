@@ -4,4 +4,4 @@ This is a small mini project where is used some html css and bootstrap5 to creat
 
 Hope you like it!,
 
-Thank yo.
+Thank you.
