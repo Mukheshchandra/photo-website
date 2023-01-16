@@ -1,16 +1,48 @@
 header{
-  height: 50vh;
-  background: url(https://wallsdesk.com/wp-content/uploads/2016/09/Ameesha-Patel-Pictures.jpg) no-repeat center /cover;
+  height: 70vh;
+  background: url(https://www.hdwallpapers.net/previews/water-plant-close-up-979.jpg) no-repeat center /cover;
+}
+
+.movedown{
+  padding-top: 180px;
 }
 
 .welcomestyling{
-  background-color: grey;
+  background-color: #337c99;
 }
 
 .collectionstyle{
-  background-color: rgba(0, 0, 128, 0.5);
+  background-color: #39ac73;
 }
 
 .pricingstyle{
-  background-color: rgba(162, 162, 18, 0.664);
+  background-color: #9645b4df;
+}
+
+.morestyling{
+  background-color: #e6b800;
+}
+
+h1{
+  font-weight: bold;
+}
+
+.text-underline{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.anchorstyling{
+  color: white;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+
+footer{
+  color: #ff3333;
+  background-color: white;
+}
+
+.bolding{
+  font-weight:500;
 }
